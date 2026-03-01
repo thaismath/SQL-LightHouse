@@ -1,6 +1,6 @@
 # 💡 Desafio SQL: Análise de Faturamento Northwind (Projeto Lighthouse)
 
-![desafio](imagens/desafio.jpg)
+![desafio](imagens/desafio.png)
 
 Projeto desenvolvido durante o Ciclo Básico da formação Lighthouse (Indicium), sob orientação da professora **Bea Kenup**, focado em extrair insights estratégicos de um banco de dados relacional.
 
