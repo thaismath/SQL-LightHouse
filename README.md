@@ -1,5 +1,7 @@
 # 💡 Desafio SQL: Análise de Faturamento Northwind (Projeto Lighthouse)
 
+![desafio](imagens/desafio.jpg)
+
 Projeto desenvolvido durante o Ciclo Básico da formação Lighthouse (Indicium), sob orientação da professora **Bea Kenup**, focado em extrair insights estratégicos de um banco de dados relacional.
 
 ## Objetivo
@@ -41,5 +43,13 @@ ORDER BY RECEITA DESC
 LIMIT 3;
 ```
 
-## Resultado E Insight
+## Resultado e Insight
+![Receita](imagens/tabela.png)
 
+Esta tabela mostra que a consulta identificou as três categorias que mais contribuíram para a receita total, permitindo que a gestão identifique onde está o maior volume financeiro da operação. Assim, poderemos tirar algumas conclusões:
+
+🔸As categorias com maior receita podem ser priorizadas em ações comerciais, já que representam maior impacto financeiro para a empresa;
+
+🔸A identificação das categorias mais rentáveis ajuda na definição de estratégias de estoque, evitando ruptura de produtos que têm maior peso na receita;
+
+🔸Esse resultado pode servir como ponto de partida para análises mais profundas, como margem de lucro, sazonalidade ou desempenho por cliente/região.
